@@ -2,12 +2,12 @@ package keys
 
 import (
 	"encoding/hex"
+	"github.com/dajiangai/openwhatsapp/utils"
 	"github.com/google/uuid"
 	"go.mau.fi/libsignal/ecc"
 	"go.mau.fi/libsignal/serialize"
 	"go.mau.fi/libsignal/state/record"
 	"go.mau.fi/libsignal/util/keyhelper"
-	"openws/utils"
 	"strings"
 	"time"
 )

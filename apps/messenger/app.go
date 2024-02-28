@@ -4,10 +4,10 @@ import (
 	"crypto/tls"
 	"encoding/json"
 	"fmt"
+	"github.com/dajiangai/openwhatsapp/fake"
+	"github.com/dajiangai/openwhatsapp/keys"
 	"github.com/gogf/gf/net/ghttp"
 	"github.com/ttacon/libphonenumber"
-	"openws/fake"
-	"openws/keys"
 	"strings"
 	"time"
 )

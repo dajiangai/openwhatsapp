@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"openws/apps/messenger"
+	"github.com/dajiangai/openwhatsapp/apps/messenger"
 )
 
 func main() {

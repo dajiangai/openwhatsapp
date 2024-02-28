@@ -6,10 +6,10 @@ import (
 	"encoding/json"
 	"fmt"
 	"github.com/cristalhq/base64"
+	"github.com/dajiangai/openwhatsapp/keys"
+	"github.com/dajiangai/openwhatsapp/utils"
 	"github.com/google/uuid"
 	"go.mau.fi/libsignal/ecc"
-	"openws/keys"
-	"openws/utils"
 )
 
 type ClientLog struct {

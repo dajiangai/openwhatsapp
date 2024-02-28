@@ -2,7 +2,7 @@ package messenger
 
 import (
 	"fmt"
-	"openws/fake"
+	"github.com/dajiangai/openwhatsapp/fake"
 	"strings"
 )
 
